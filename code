@@ -4,6 +4,6 @@ int main(void) {
 	int t,n,x,y,z,count,i,j,a,b,c;
 	scanf("%d %d",&x,&y);
 	count=x-(y/2);
-  printf("%d\n",count);
+	printf("%d\n",count);
 	return 0;
 }
